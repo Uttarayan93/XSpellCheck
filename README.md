@@ -1,0 +1,2 @@
+# XSpellCheck
+Basic Spelling Checker
